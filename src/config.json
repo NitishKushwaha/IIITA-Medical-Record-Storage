@@ -1,0 +1,26 @@
+{
+    "31337": {
+        "medical": {
+            "address": "0x8464135c8F25Da09e49BC8782676a84730C318bC"
+        },
+        "explorerURL": "#"
+    },
+    "5": {
+        "medical": {
+            "address": "0x79c8e802C9FBa87a8d38091204731850739F6a83"
+        },
+        "explorerURL": "https://goerli.etherscan.io/"
+    },
+    "11155111": {
+        "medical": {
+            "address": "0xf2f77ebfed9ca907ad8b5956c9966c032db70654"
+        },
+        "explorerURL": "https://sepolia.etherscan.io/"
+    },
+    "80001": {
+        "medical": {
+            "address": "0x70422eCBc3f23bA412140660310Da96f41657d28"
+        },
+        "explorerURL": "https://mumbai.polygonscan.com/"
+    }
+}
